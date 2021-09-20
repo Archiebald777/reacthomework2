@@ -1,0 +1,25 @@
+/* .card {
+    width: 300px;
+    border: 1px solid;
+    border-radius: 10px;
+    text-align: center;
+    margin: 30px auto;
+  } */
+
+.userImg {
+  width: 10%;
+}
+.card-wrapper {
+  width: 300px;
+  height: 700px;
+  border: 1px solid;
+  border-radius: 10px;
+  text-align: center;
+  margin: 30px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.links {
+  overflow: hidden;
+}
